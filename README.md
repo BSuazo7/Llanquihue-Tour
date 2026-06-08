@@ -28,4 +28,4 @@ Ejecuta el archivo Main.java desde el paquete app.
 
 Sigue las instrucciones en consola o en la interfaz gráfica (si corresponde).
 
-Repositorio GitHub: [Pega aquí el enlace al repositorio] Fecha de entrega: 08-06-2026
+Repositorio GitHub: https://github.com/BSuazo7/Llanquihue-Tour Fecha de entrega: 08-06-2026
